@@ -40,3 +40,10 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
         // Form ko clear karne ke liye
         contactForm.reset();
     });
+
+     // Animation initialize
+      AOS.init({
+          duration: 800, // Animation kitni der chalegi (ms)
+          offset: 120,   // Kitna scroll hone par start ho
+          once: false    // Kya har baar scroll pe animation dikhe?
+      });

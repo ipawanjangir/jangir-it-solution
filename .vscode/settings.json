@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\dell\\Downloads\\apache-tomcat-10.1.50\\apache-tomcat-10.1.50\\lib\\servlet-api.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
